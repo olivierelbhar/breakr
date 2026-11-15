@@ -1,2 +1,2 @@
 # breakr
-Random your breakbeats as massive junglist
+Random your breakbeats as a massive junglist
